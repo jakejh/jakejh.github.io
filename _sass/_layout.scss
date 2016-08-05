@@ -1,10 +1,27 @@
 /**
  * Site header
  */
+
+#sticky {
+}
+#sticky.stick {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 10000;
+}
+
+#sticky-phantom{
+  visibility: hidden;
+}
+
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    /*border-top: 5px solid $grey-color-dark;
+    border-bottom: 1px solid $grey-color-light;*/
     min-height: 56px;
+
+    background-color: black;
+    color: $text-color-extra-light;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -20,7 +37,8 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        //color: $grey-color-dark;
+        color: $grey-color-light;
     }
 }
 
@@ -33,7 +51,8 @@
     }
 
     .page-link {
-        color: $text-color;
+        //color: $text-color;
+        color: $text-color-extra-light;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
