@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jacob Hughey
+email: jakejhughey@gmail.com
+google_scholar: https://scholar.google.com/citations?hl=en&user=4B-OkFkAAAAJ
+description: "" # > this means to ignore newlines until "baseurl:" 
+school_name: Vanderbilt University School of Medicine
+school_url: https://medschool.vanderbilt.edu/
+dept_name: Department of Biomedical Informatics
+dept_url: https://medschool.vanderbilt.edu/dbmi/
+address: 2525 West End Ave, Nashville, TN
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://jakejh.github.io # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: jakejh
+
+# Build settings
+markdown: kramdown

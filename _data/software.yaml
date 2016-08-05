@@ -1,0 +1,29 @@
+- title: ZeitZeiger
+  description: Supervised learning for high-dimensional, periodic data
+  format: R package
+  source: https://github.com/jakejh/zeitzeiger
+
+- title: MetaPredict
+  description: Meta-analysis of genome-wide gene expression
+  format: R package
+  source: https://github.com/jakejh/metapredict
+
+- title: KTR model
+  description: ODE-based model of the kinase translocation reporter
+  format: Matlab
+  source: https://github.com/covertlab/ktr_model
+
+- title: Nested sort of structure arrays
+  description: Sort a struct array based on multiple fields
+  format: Matlab
+  source: https://www.mathworks.com/matlabcentral/fileexchange/28573-nested-sort-of-structure-arrays
+
+- title: Ridler-Calvard image thresholding
+  description: Threshold an image using the Ridler-Calvard algorithm
+  format: Matlab
+  source: https://www.mathworks.com/matlabcentral/fileexchange/44255-ridler-calvard-image-thresholding
+
+- title: Simple image thresholding
+  description: Simple method to calculate the threshold of an image
+  format: Matlab
+  source: https://www.mathworks.com/matlabcentral/fileexchange/44291-simple-image-thresholding

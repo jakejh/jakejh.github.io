@@ -1,0 +1,20 @@
+---
+layout: default
+title: Software
+permalink: /software/
+---
+<div class="post">
+
+  <h1 class="post-title">Software</h1>
+
+  <ul class="pub-list">
+    {% for pub in site.data.software %}
+      <li>
+        {{ pub.title }} &mdash; {{ pub.description }}<br/>
+
+        <a href="{{ pub.source }}">Source</a>
+
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,112 @@
+# title: 
+# authors: 
+# year: 
+# ref: 
+# pdf: 
+# doi: 
+# pmid: 
+# reviews: 
+# results: 
+# software: 
+
+- title: Differential phasing between circadian clocks in the brain and peripheral organs in humans
+  authors: Hughey JJ and Butte AJ
+  year: in press
+  ref: J Biol Rhythms
+  pdf: 2016_hughey_differential.pdf
+  reviews: 2016_hughey_differential_reviews.pdf
+  results: http://dx.doi.org/10.5061/dryad.g928q
+
+- title: Is the Crowd Better as an Assistant or a Replacement in Ontology Engineering? An Exploration Through the Lens of the Gene Ontology
+  authors: Mortensen JM, Telis N, Hughey JJ, Fan-Minogue H, Auken KV, Dumontier M, Musen MA
+  year: 2016
+  ref: J Biomed Inform
+  pdf: 2016_mortensen_crowd.pdf
+  doi: 10.1016/j.jbi.2016.02.005
+  pmid: 26873781
+
+- title: "ZeitZeiger: supervised learning for high-dimensional data from an oscillatory system"
+  authors: Hughey JJ, Hastie T, Butte AJ
+  year: 2016
+  ref: Nucleic Acids Res
+  pdf: 2016_hughey_zeitzeiger.pdf
+  doi: 10.1093/nar/gkw030
+  pmid: 26819407
+  results: http://dx.doi.org/10.5061/dryad.hn8gp
+  software: https://github.com/jakejh/zeitzeiger
+
+- title: Robust meta-analysis of gene expression using the elastic net
+  authors: Hughey JJ and Butte AJ
+  year: 2015
+  ref: Nucleic Acids Res
+  pdf: 2015_hughey_robust.pdf
+  doi: 10.1093/nar/gkv229
+  pmid: 25829177
+  results: http://dx.doi.org/10.5281/zenodo.16006
+  software: https://github.com/jakejh/metapredict
+
+- title: Single-cell variation leads to population invariance in NF-κB signaling dynamics
+  authors: Hughey JJ*, Gutschow MV*, Bajar BT, Covert MW, *equal contribution
+  year: 2015
+  ref: Mol Biol Cell
+  pdf: 2015_hughey_single-cell.pdf
+  doi: 10.1091/mbc.E14-08-1267
+  pmid: 25473117
+  results: http://archive.simtk.org/livecellnfkb/hughey2014/interactive
+
+- title: High-sensitivity measurements of multiple kinase activities in live single cells
+  authors: Regot S, Hughey JJ, Bajar BT, Carrasco S, Covert MW
+  year: 2014
+  ref: Cell
+  pdf: 2014_regot_high-sensitivity.pdf
+  doi: 10.1016/j.cell.2014.04.039
+  pmid: 24949979
+  software: https://github.com/CovertLab/ktr_model
+
+- title: The microfluidic multi-trap nanophysiometer for hematologic cancer cell characterization reveals temporal sensitivity of the calcein-AM efflux assay
+  authors: Byrd TF IV, Hoang LT, Kim EG, Pfister ME, Werner EM, Arndt SE, Chamberlain JW, Hughey JJ, Nguyen BA, Schneibel EJ, Wertz LL, Whitfield JS, Wikswo JP, Seale KT
+  year: 2014
+  ref: Sci Rep
+  pdf: 2014_byrd_microfluidic.pdf
+  doi: 10.1038/srep05117
+  pmid: 24873950
+
+- title: Single-cell and Population NF-κB Dynamic Responses Depend on Lipopolysaccharide Preparation
+  authors: Gutschow MV*, Hughey JJ*, Ruggero NA, Bajar BT, Valle SD, Covert MW, *equal contribution
+  year: 2013
+  ref: PLOS One
+  pdf: 2013_gutschow_single-cell.pdf
+  doi: 10.1371/journal.pone.0053222
+  pmid: 23301045
+
+- title: Single-cell NF-κB dynamics reveal digital activation and analog information processing
+  authors: Tay S*, Hughey JJ*, Lee TK, Lipniacki T, Quake SR, Covert MW, *equal contribution
+  year: 2010
+  ref: Nature
+  pdf: 2010_tay_single-cell.pdf
+  doi: 10.1038/nature09145
+  pmid: 20581820
+
+- title: Computational modeling of mammalian signaling networks
+  authors: Hughey JJ, Lee TK, Covert MW
+  year: 2010
+  ref: Wiley Interdiscip Rev Syst Biol Med
+  pdf: 2010_hughey_computational.pdf
+  doi: 10.1002/wsbm.52
+  pmid: 20836022
+
+- title: A Noisy Paracrine Signal Determines the Cellular NF-κB Response to Lipopolysaccharide
+  authors: Lee TK, Denny EM, Sanghvi JC, Gaston JE, Maynard ND, Hughey JJ, Covert MW
+  year: 2009
+  ref: Sci Signal
+  pdf: 2009_lee_noisy.pdf
+  doi: 10.1126/scisignal.2000599
+  pmid: 19843957
+
+- title: Microfluidic platform for real-time signaling analysis of multiple single T cells in parallel
+  authors: Faley S, Seale K, Hughey J, Schaffer DK, VanCompernolle S, McKinney B, Baudenbacher F, Unutmaz D, Wikswo JP
+  year: 2008
+  ref: Lab Chip
+  pdf: 2008_faley_microfluidic.pdf
+  doi: 10.1039/b719799c
+  pmid: 18813394
