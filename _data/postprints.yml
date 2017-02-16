@@ -14,6 +14,7 @@
   year: 2016
   ref: J Biol Rhythms
   pdf: 2016_hughey_differential.pdf
+  supp: 2016_hughey_differential_supp.zip
   doi: 10.1177/0748730416668049
   pmid: 27702781
   reviews: 2016_hughey_differential_reviews.pdf
@@ -32,6 +33,7 @@
   year: 2016
   ref: Nucleic Acids Res
   pdf: 2016_hughey_zeitzeiger.pdf
+  supp: 2016_hughey_zeitzeiger_supp.zip
   doi: 10.1093/nar/gkw030
   pmid: 26819407
   results: http://dx.doi.org/10.5061/dryad.hn8gp
@@ -42,6 +44,7 @@
   year: 2015
   ref: Nucleic Acids Res
   pdf: 2015_hughey_robust.pdf
+  supp: 2015_hughey_robust_supp.zip
   doi: 10.1093/nar/gkv229
   pmid: 25829177
   results: http://dx.doi.org/10.5281/zenodo.16006
@@ -52,6 +55,7 @@
   year: 2015
   ref: Mol Biol Cell
   pdf: 2015_hughey_single-cell.pdf
+  supp: 2015_hughey_single-cell_supp.pdf
   doi: 10.1091/mbc.E14-08-1267
   pmid: 25473117
   results: http://archive.simtk.org/livecellnfkb/hughey2014/interactive
@@ -61,6 +65,7 @@
   year: 2014
   ref: Cell
   pdf: 2014_regot_high-sensitivity.pdf
+  supp: 2014_regot_high-sensitivity_supp.zip
   doi: 10.1016/j.cell.2014.04.039
   pmid: 24949979
   software: https://github.com/CovertLab/ktr_model
@@ -70,6 +75,7 @@
   year: 2014
   ref: Sci Rep
   pdf: 2014_byrd_microfluidic.pdf
+  supp: 2014_byrd_microfluidic_supp.pdf
   doi: 10.1038/srep05117
   pmid: 24873950
 
@@ -86,6 +92,7 @@
   year: 2010
   ref: Nature
   pdf: 2010_tay_single-cell.pdf
+  supp: 2010_tay_single-cell_supp.zip
   doi: 10.1038/nature09145
   pmid: 20581820
 
@@ -102,6 +109,7 @@
   year: 2009
   ref: Sci Signal
   pdf: 2009_lee_noisy.pdf
+  supp: 2009_lee_noisy_supp.zip
   doi: 10.1126/scisignal.2000599
   pmid: 19843957
 
