@@ -12,7 +12,7 @@ permalink: /papers/
   
   <ul class="pub-list">
 
-    <li class="pub-section">Preprints</li>
+    <!-- <li class="pub-section">Preprints</li> -->
 
     {% for pub in site.data.preprints %}
       <li>
@@ -32,7 +32,7 @@ permalink: /papers/
         {% endif %}
 
         {% if pub.doi %}
-          <a href="http://dx.doi.org/{{ pub.doi }}">Journal</a>&nbsp;&nbsp;
+          <a href="https://dx.doi.org/{{ pub.doi }}">Journal</a>&nbsp;&nbsp;
         {% endif %}
 
         {% if pub.results %}
@@ -46,7 +46,7 @@ permalink: /papers/
       </li>
     {% endfor %}
 
-    <li class="pub-section">Postprints</li>
+    <!-- <li class="pub-section">Postprints</li> -->
 
     {% for pub in site.data.postprints %}
       <li>
@@ -84,7 +84,7 @@ permalink: /papers/
         {% endif %}
 
         {% if pub.pmid %}
-          <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">Pubmed</a>&nbsp;&nbsp;
+          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ pub.pmid }}">Pubmed</a>&nbsp;&nbsp;
         {% endif %}
 
       </li>

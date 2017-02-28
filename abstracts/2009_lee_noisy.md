@@ -8,5 +8,5 @@ Nearly identical cells can exhibit substantially different responses to the same
 
 [PDF](../../pdfs/2009_lee_noisy.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2009_lee_noisy_supp.zip)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1126/scisignal.2000599)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/19843957)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1126/scisignal.2000599)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19843957)&nbsp;&nbsp;

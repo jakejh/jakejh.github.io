@@ -8,6 +8,6 @@ Increasing evidence has shown that population dynamics are qualitatively differe
 
 [PDF](../../pdfs/2014_regot_high-sensitivity.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2014_regot_high-sensitivity_supp.zip)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1016/j.cell.2014.04.039)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24949979)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1016/j.cell.2014.04.039)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24949979)&nbsp;&nbsp;
 <!---[Software](https://github.com/CovertLab/ktr_model)-->

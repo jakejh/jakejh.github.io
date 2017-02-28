@@ -8,5 +8,5 @@ Cells operate in dynamic environments using extraordinary communication capabili
 
 [PDF](../../pdfs/2010_tay_single-cell.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2009_tay_single-cell_supp.zip)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1038/nature09145)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/20581820)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1038/nature09145)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/20581820)&nbsp;&nbsp;

@@ -8,7 +8,7 @@ Meta-analysis of gene expression has enabled numerous insights into biological s
 
 [PDF](../../pdfs/2015_hughey_robust.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2015_hughey_robust_supp.zip)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1093/nar/gkv229)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25829177)&nbsp;&nbsp;
-[Results](http://dx.doi.org/10.5281/zenodo.16006)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1093/nar/gkv229)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25829177)&nbsp;&nbsp;
+[Results](https://dx.doi.org/10.5281/zenodo.16006)&nbsp;&nbsp;
 <!---[Software](https://github.com/jakejh/metapredict)-->

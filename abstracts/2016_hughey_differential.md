@@ -8,7 +8,7 @@ The daily timing of mammalian physiology is coordinated by circadian clocks thro
 
 [PDF](../../pdfs/2016_hughey_differential.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2016_hughey_differential_supp.zip)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1177/0748730416668049)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27702781)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1177/0748730416668049)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27702781)&nbsp;&nbsp;
 [Reviews](../../pdfs/2016_hughey_differential_reviews.pdf)&nbsp;&nbsp;
-[Results](http://dx.doi.org/10.5061/dryad.g928q)&nbsp;&nbsp;
+[Results](https://dx.doi.org/10.5061/dryad.g928q)&nbsp;&nbsp;

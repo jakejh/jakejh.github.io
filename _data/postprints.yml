@@ -9,6 +9,15 @@
 # results: 
 # software: 
 
+- title: Machine learning identifies a compact gene set for monitoring the circadian clock in human blood
+  authors: Hughey JJ
+  year: 2017
+  ref: Genome Med
+  pdf: 2017_hughey_machine.pdf
+  supp: 2017_hughey_machine_supp.pdf
+  doi: 10.1186/s13073-017-0406-4
+  results: https://dx.doi.org/10.6084/m9.figshare.3756375.v1
+
 - title: Differential phasing between circadian clocks in the brain and peripheral organs in humans
   authors: Hughey JJ and Butte AJ
   year: 2016
@@ -18,7 +27,7 @@
   doi: 10.1177/0748730416668049
   pmid: 27702781
   reviews: 2016_hughey_differential_reviews.pdf
-  results: http://dx.doi.org/10.5061/dryad.g928q
+  results: https://dx.doi.org/10.5061/dryad.g928q
 
 - title: Is the Crowd Better as an Assistant or a Replacement in Ontology Engineering? An Exploration Through the Lens of the Gene Ontology
   authors: Mortensen JM, Telis N, Hughey JJ, Fan-Minogue H, Auken KV, Dumontier M, Musen MA
@@ -36,7 +45,7 @@
   supp: 2016_hughey_zeitzeiger_supp.zip
   doi: 10.1093/nar/gkw030
   pmid: 26819407
-  results: http://dx.doi.org/10.5061/dryad.hn8gp
+  results: https://dx.doi.org/10.5061/dryad.hn8gp
   software: https://github.com/jakejh/zeitzeiger
 
 - title: Robust meta-analysis of gene expression using the elastic net
@@ -47,7 +56,7 @@
   supp: 2015_hughey_robust_supp.zip
   doi: 10.1093/nar/gkv229
   pmid: 25829177
-  results: http://dx.doi.org/10.5281/zenodo.16006
+  results: https://dx.doi.org/10.5281/zenodo.16006
   software: https://github.com/jakejh/metapredict
 
 - title: Single-cell variation leads to population invariance in NF-κB signaling dynamics

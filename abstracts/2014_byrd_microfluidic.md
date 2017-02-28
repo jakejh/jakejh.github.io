@@ -8,5 +8,5 @@ Cytometric studies utilizing flow cytometry or multi-well culture plate fluorome
 
 [PDF](../../pdfs/2014_byrd_microfluidic.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2014_byrd_microfluidic_supp.pdf)&nbsp;&nbsp;
-[Journal](http://dx.doi.org/10.1038/srep05117)&nbsp;&nbsp;
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24873950)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1038/srep05117)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24873950)&nbsp;&nbsp;
