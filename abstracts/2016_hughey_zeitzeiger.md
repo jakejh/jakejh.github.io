@@ -8,7 +8,7 @@ permalink: /abstracts/2016_hughey_zeitzeiger/
 
 [PDF](../../pdfs/2016_hughey_zeitzeiger.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2016_hughey_zeitzeiger_supp.zip)&nbsp;&nbsp;
+[Results](https://dx.doi.org/10.5061/dryad.hn8gp)&nbsp;&nbsp;
 [Journal](https://dx.doi.org/10.1093/nar/gkw030)&nbsp;&nbsp;
 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26819407)&nbsp;&nbsp;
-[Results](https://dx.doi.org/10.5061/dryad.hn8gp)&nbsp;&nbsp;
 <!---[Software](https://github.com/jakejh/zeitzeiger)-->

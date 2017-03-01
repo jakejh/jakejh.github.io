@@ -8,6 +8,6 @@ The activation dynamics of nuclear factor (NF)-κB have been shown to affect dow
 
 [PDF](../../pdfs/2015_hughey_single-cell.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2015_hughey_single-cell_supp.pdf)&nbsp;&nbsp;
+[Results](http://archive.simtk.org/livecellnfkb/hughey2014/interactive)&nbsp;&nbsp;
 [Journal](https://dx.doi.org/10.1091/mbc.E14-08-1267)&nbsp;&nbsp;
 [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25473117)&nbsp;&nbsp;
-[Results](http://archive.simtk.org/livecellnfkb/hughey2014/interactive)&nbsp;&nbsp;

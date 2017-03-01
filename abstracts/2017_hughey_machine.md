@@ -8,5 +8,6 @@ The circadian clock and the daily rhythms it produces are crucial for human heal
 
 [PDF](../../pdfs/2017_hughey_machine.pdf)&nbsp;&nbsp;
 [Supp](../../supps/2017_hughey_machine_supp.pdf)&nbsp;&nbsp;
-[Journal](https://dx.doi.org/10.1186/s13073-017-0406-4)&nbsp;&nbsp;
 [Results](https://dx.doi.org/10.6084/m9.figshare.3756375.v1)&nbsp;&nbsp;
+[Journal](https://dx.doi.org/10.1186/s13073-017-0406-4)&nbsp;&nbsp;
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28241858)&nbsp;&nbsp;
