@@ -22,14 +22,17 @@ permalink: /papers/
 
         {{ pub.authors }}. {{ pub.ref }} ({{ pub.year }}).<br/>
 
-        {% if pub.pdf %}
-          <a href="../abstracts/{{ pub.pdf | remove: '.pdf' }}">Abstract</a>&nbsp;&nbsp;
-          <a href="../assets/{{ pub.pdf }}">PDF</a>&nbsp;&nbsp;
+        {% if pub.abstract %}
+          <a href="../abstracts/{{ pub.abstract }}">Abstract</a>&nbsp;&nbsp;
+        {% endif %}
+
+        <!-- {% if pub.pdf %}
+          <a href="../assets/{{ pub.abstract }}.pdf">PDF</a>&nbsp;&nbsp;
         {% endif %}
 
         {% if pub.supp %}
           <a href="../assets/{{ pub.supp }}">Supp</a>&nbsp;&nbsp;
-        {% endif %}
+        {% endif %} -->
 
         {% if pub.doi %}
           <a href="https://doi.org/{{ pub.doi }}">Journal</a>&nbsp;&nbsp;
@@ -37,10 +40,6 @@ permalink: /papers/
 
         {% if pub.results %}
           <a href="{{ pub.results }}">Results</a>&nbsp;&nbsp;
-        {% endif %}
-
-        {% if pub.software %}
-          <a href="{{ pub.software }}">Software</a>
         {% endif %}
 
       </li>
@@ -56,9 +55,12 @@ permalink: /papers/
 
         {{ pub.authors }}. {{ pub.ref }} ({{ pub.year }}).<br/>
 
+        {% if pub.abstract %}
+          <a href="../abstracts/{{ pub.abstract }}">Abstract</a>&nbsp;&nbsp;
+        {% endif %}
+
         {% if pub.pdf %}
-          <a href="../abstracts/{{ pub.pdf | remove: '.pdf' }}">Abstract</a>&nbsp;&nbsp;
-          <a href="../assets/{{ pub.pdf }}">PDF</a>&nbsp;&nbsp;
+          <a href="../assets/{{ pub.abstract }}.pdf">PDF</a>&nbsp;&nbsp;
         {% endif %}
         
         {% if pub.supp %}
@@ -72,12 +74,6 @@ permalink: /papers/
         {% if pub.reviews %}
           <a href="../assets/{{ pub.reviews }}">Reviews</a>&nbsp;&nbsp;
         {% endif %}
-
-        <!--{% if pub.software %}
-          <a href="{{ pub.software }}">Software</a>&nbsp;&nbsp;
-        {% endif %}-->
-
-        <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
         {% if pub.doi %}
           <a href="https://doi.org/{{ pub.doi }}">Journal</a>&nbsp;&nbsp;

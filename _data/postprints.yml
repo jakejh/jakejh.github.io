@@ -2,6 +2,7 @@
 # authors: 
 # year: 
 # ref: 
+# abstract: 
 # pdf: 
 # doi: 
 # pmid: 
@@ -13,7 +14,8 @@
   authors: Hughey JJ
   year: 2017
   ref: Genome Med
-  pdf: 2017_hughey_machine.pdf
+  abstract: 2017_hughey_machine  
+  pdf: yes
   supp: 2017_hughey_machine_supp.pdf
   doi: 10.1186/s13073-017-0406-4
   pmid: 28241858
@@ -24,7 +26,8 @@
   authors: Hughey JJ and Butte AJ
   year: 2016
   ref: J Biol Rhythms
-  pdf: 2016_hughey_differential.pdf
+  abstract: 2016_hughey_differential
+  pdf: yes
   supp: 2016_hughey_differential_supp.zip
   doi: 10.1177/0748730416668049
   pmid: 27702781
@@ -35,7 +38,8 @@
   authors: Mortensen JM, Telis N, Hughey JJ, Fan-Minogue H, Auken KV, Dumontier M, Musen MA
   year: 2016
   ref: J Biomed Inform
-  pdf: 2016_mortensen_crowd.pdf
+  abstract: 2016_mortensen_crowd
+  pdf: yes
   doi: 10.1016/j.jbi.2016.02.005
   pmid: 26873781
 
@@ -43,7 +47,8 @@
   authors: Hughey JJ, Hastie T, Butte AJ
   year: 2016
   ref: Nucleic Acids Res
-  pdf: 2016_hughey_zeitzeiger.pdf
+  abstract: 2016_hughey_zeitzeiger
+  pdf: yes
   supp: 2016_hughey_zeitzeiger_supp.zip
   doi: 10.1093/nar/gkw030
   pmid: 26819407
@@ -54,7 +59,8 @@
   authors: Hughey JJ and Butte AJ
   year: 2015
   ref: Nucleic Acids Res
-  pdf: 2015_hughey_robust.pdf
+  abstract: 2015_hughey_robust
+  pdf: yes
   supp: 2015_hughey_robust_supp.zip
   doi: 10.1093/nar/gkv229
   pmid: 25829177
@@ -65,7 +71,8 @@
   authors: Hughey JJ*, Gutschow MV*, Bajar BT, Covert MW, *equal contribution
   year: 2015
   ref: Mol Biol Cell
-  pdf: 2015_hughey_single-cell.pdf
+  abstract: 2015_hughey_single-cell
+  pdf: yes
   supp: 2015_hughey_single-cell_supp.pdf
   doi: 10.1091/mbc.E14-08-1267
   pmid: 25473117
@@ -75,7 +82,8 @@
   authors: Regot S, Hughey JJ, Bajar BT, Carrasco S, Covert MW
   year: 2014
   ref: Cell
-  pdf: 2014_regot_high-sensitivity.pdf
+  abstract: 2014_regot_high-sensitivity
+  pdf: yes
   supp: 2014_regot_high-sensitivity_supp.zip
   doi: 10.1016/j.cell.2014.04.039
   pmid: 24949979
@@ -85,7 +93,8 @@
   authors: Byrd TF IV, Hoang LT, Kim EG, Pfister ME, Werner EM, Arndt SE, Chamberlain JW, Hughey JJ, Nguyen BA, Schneibel EJ, Wertz LL, Whitfield JS, Wikswo JP, Seale KT
   year: 2014
   ref: Sci Rep
-  pdf: 2014_byrd_microfluidic.pdf
+  abstract: 2014_byrd_microfluidic
+  pdf: yes
   supp: 2014_byrd_microfluidic_supp.pdf
   doi: 10.1038/srep05117
   pmid: 24873950
@@ -94,7 +103,8 @@
   authors: Gutschow MV*, Hughey JJ*, Ruggero NA, Bajar BT, Valle SD, Covert MW, *equal contribution
   year: 2013
   ref: PLOS One
-  pdf: 2013_gutschow_single-cell.pdf
+  abstract: 2013_gutschow_single-cell
+  pdf: yes
   doi: 10.1371/journal.pone.0053222
   pmid: 23301045
 
@@ -102,7 +112,8 @@
   authors: Tay S*, Hughey JJ*, Lee TK, Lipniacki T, Quake SR, Covert MW, *equal contribution
   year: 2010
   ref: Nature
-  pdf: 2010_tay_single-cell.pdf
+  abstract: 2010_tay_single-cell
+  pdf: yes
   supp: 2010_tay_single-cell_supp.zip
   doi: 10.1038/nature09145
   pmid: 20581820
@@ -111,7 +122,8 @@
   authors: Hughey JJ, Lee TK, Covert MW
   year: 2010
   ref: Wiley Interdiscip Rev Syst Biol Med
-  pdf: 2010_hughey_computational.pdf
+  abstract: 2010_hughey_computational
+  pdf: yes
   doi: 10.1002/wsbm.52
   pmid: 20836022
 
@@ -119,7 +131,8 @@
   authors: Lee TK, Denny EM, Sanghvi JC, Gaston JE, Maynard ND, Hughey JJ, Covert MW
   year: 2009
   ref: Sci Signal
-  pdf: 2009_lee_noisy.pdf
+  abstract: 2009_lee_noisy
+  pdf: yes
   supp: 2009_lee_noisy_supp.zip
   doi: 10.1126/scisignal.2000599
   pmid: 19843957
@@ -128,6 +141,7 @@
   authors: Faley S, Seale K, Hughey J, Schaffer DK, VanCompernolle S, McKinney B, Baudenbacher F, Unutmaz D, Wikswo JP
   year: 2008
   ref: Lab Chip
-  pdf: 2008_faley_microfluidic.pdf
+  abstract: 2008_faley_microfluidic
+  pdf: yes
   doi: 10.1039/b719799c
   pmid: 18813394

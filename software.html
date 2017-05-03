@@ -12,7 +12,17 @@ permalink: /software/
       <li>
         {{ pub.title }} &mdash; {{ pub.description }}<br/>
 
-        <a href="{{ pub.source }}">Source</a>
+        {% if pub.app %}
+          <a href="{{ pub.app }}">Web app</a>&nbsp;&nbsp;
+        {% endif %}
+
+        {% if pub.source %}
+          <a href="{{ pub.source }}">Source</a>&nbsp;&nbsp;
+        {% endif %}
+
+        {% if pub.abstract %}
+          <a href="../abstracts/{{ pub.abstract }}">Article</a>
+        {% endif %}
 
       </li>
     {% endfor %}
