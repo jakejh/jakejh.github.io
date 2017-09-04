@@ -18,7 +18,7 @@ Prospective candidates should email me a description of their interest in the la
 
 Prospective graduate students can apply to the graduate program of the [Vanderbilt Dept. of Biomedical Informatics](https://www.vumc.org/dbmi/research-ms-and-phd-program).
 
-Current graduate students at Vanderbilt should email me few sentences describing why they're interested in the lab, then we can discuss possible rotation projects.
+Current graduate students at Vanderbilt should email me a few sentences describing why they're interested in the lab, then we can discuss possible rotation projects.
 
 # Undergraduates
 
