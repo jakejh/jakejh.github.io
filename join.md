@@ -12,7 +12,7 @@ The focus of the lab is on using computation, broadly defined, to understand dyn
 
 Strong candidates will likely have a PhD in a quantitative field, such as bioinformatics, computational biology, statistics, engineering, computer science, etc. Programming experience and experience working with biological or clinical data is a plus.
 
-Prospective candidates should email me a description of their interest in the lab and the type of projects they would like to pursue, along with names and contact information for three references.
+Prospective candidates should email me a description of their interest in the lab and the type of projects they would like to pursue, along with name and contact information for three references.
 
 # Graduate students
 
