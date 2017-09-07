@@ -4,7 +4,7 @@ title: "The Hughey Lab is officially open for science."
 date: 2017-08-24
 ---
 
-![](https://media.giphy.com/media/TsD8LGhM5jgs0/giphy.gif)
+![](/assets/images/2017-08-24-giphy.gif)
 
 And I'm looking for great people to join the team! We're currently at population one: me. To be fair, we had a population of two during the summer, because Jarrod Shilts was tearing it up analyzing circadian gene expression in human cancer.
 
