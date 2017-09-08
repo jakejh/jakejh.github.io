@@ -2,6 +2,8 @@
 layout: page
 title: Join the lab
 permalink: /join/
+redirect_to:
+  - https://hugheylab.org/join/
 ---
 
 I'm currently starting my own lab and am looking for exceptional individuals to be part of the team. More than any particular skills, I'm interested in people who are hard-working, creative, and eager to learn. Successful applicants will have the opportunity to shape the research directions and the culture of the lab.
